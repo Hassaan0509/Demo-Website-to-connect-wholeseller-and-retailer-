@@ -1,0 +1,12 @@
+.wholeseller__Data:hover {
+  background-color: rgba(212, 214, 213, 0.5) !important;
+}
+
+.del__icon {
+  top: 30% !important;
+  left: 96% !important;
+}
+
+.del__icon:hover {
+color: red;
+}
